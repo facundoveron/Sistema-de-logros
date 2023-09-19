@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-09-19T04:54:48.985Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0" etag="KdpIdzfVroovK5otBjUr" version="21.7.5" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-09-19T05:04:11.157Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0" etag="CRj6tIEQeSc21DEo7HX9" version="21.7.5" type="github" pages="2">
   <diagram name="Page-1" id="c4acf3e9-155e-7222-9cf6-157b1a14988f">
-    <mxGraphModel dx="3372" dy="1491" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2175" dy="1491" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -964,11 +964,11 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="hoLoJglFO14Wv2eabVut-115" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;i&gt;&amp;lt;&amp;lt;enumeration&amp;gt;&lt;/i&gt;&lt;i&gt;&amp;gt;&lt;/i&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;i&gt;&lt;b&gt;Membership&lt;br&gt;&lt;/b&gt;&lt;/i&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;div&gt;&amp;nbsp;&amp;nbsp; Regular&lt;/div&gt;&lt;div&gt;&amp;nbsp;&amp;nbsp; Preferential&lt;/div&gt;&lt;div&gt;&amp;nbsp;&amp;nbsp; VIP&lt;br&gt;&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="530" y="3318" width="120" height="100" as="geometry" />
+          <mxGeometry x="469" y="3319" width="120" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="hoLoJglFO14Wv2eabVut-116" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1">
+        <mxCell id="hoLoJglFO14Wv2eabVut-116" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="hoLoJglFO14Wv2eabVut-115">
           <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="725" y="3374" as="sourcePoint" />
+            <mxPoint x="726" y="3369" as="sourcePoint" />
             <mxPoint x="651" y="3374" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -1253,6 +1253,46 @@
               <mxPoint x="907" y="3868" />
             </Array>
             <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hoLoJglFO14Wv2eabVut-168" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;i&gt;&amp;lt;&amp;lt;interface&amp;gt;&lt;/i&gt;&lt;i&gt;&amp;gt;&lt;/i&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;i&gt;&lt;b&gt;IMockData&amp;lt;T&amp;gt;&lt;br&gt;&lt;/b&gt;&lt;/i&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;div&gt;&amp;nbsp;&amp;nbsp; + getMockData(): List&amp;lt;T&amp;gt;&lt;br&gt;&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="1642" y="3842" width="160" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="hoLoJglFO14Wv2eabVut-169" value="" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;rounded=0;fontSize=12;curved=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="hoLoJglFO14Wv2eabVut-168">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="1517" y="3880" as="sourcePoint" />
+            <mxPoint x="1670.5" y="3904" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hoLoJglFO14Wv2eabVut-170" value="" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;rounded=0;fontSize=12;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="1564" y="3791" as="sourcePoint" />
+            <mxPoint x="1679" y="3842" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1679" y="3791" />
+              <mxPoint x="1679" y="3842" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hoLoJglFO14Wv2eabVut-171" value="" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;rounded=0;fontSize=12;curved=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="hoLoJglFO14Wv2eabVut-168">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="1723" y="3711" as="sourcePoint" />
+            <mxPoint x="1828" y="3745" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hoLoJglFO14Wv2eabVut-172" value="implementa" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="hoLoJglFO14Wv2eabVut-171">
+          <mxGeometry x="-0.0609" y="3" relative="1" as="geometry">
+            <mxPoint x="-2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hoLoJglFO14Wv2eabVut-173" value="implementa" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="hoLoJglFO14Wv2eabVut-171">
+          <mxGeometry x="-0.0609" y="3" relative="1" as="geometry">
+            <mxPoint x="-103" y="17" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hoLoJglFO14Wv2eabVut-174" value="implementa" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="hoLoJglFO14Wv2eabVut-171">
+          <mxGeometry x="-0.0609" y="3" relative="1" as="geometry">
+            <mxPoint x="-154" y="106" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
