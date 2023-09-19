@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-19T04:53:08.707Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0" etag="Y3pKvBWwSFtVyx5uiMM4" version="21.7.5" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-09-19T04:54:48.985Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0" etag="KdpIdzfVroovK5otBjUr" version="21.7.5" type="github" pages="2">
   <diagram name="Page-1" id="c4acf3e9-155e-7222-9cf6-157b1a14988f">
     <mxGraphModel dx="3372" dy="1491" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -1092,8 +1092,8 @@
             <mxPoint x="1636" y="3687" as="targetPoint" />
             <Array as="points">
               <mxPoint x="1577" y="3025" />
-              <mxPoint x="1577" y="3540" />
-              <mxPoint x="958" y="3540" />
+              <mxPoint x="1577" y="3527" />
+              <mxPoint x="958" y="3527" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -1123,8 +1123,8 @@
             <mxPoint x="1564" y="3061" as="sourcePoint" />
             <mxPoint x="1358" y="3606" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="1627" y="3077" />
-              <mxPoint x="1627" y="3573" />
+              <mxPoint x="1632" y="3077" />
+              <mxPoint x="1632" y="3573" />
               <mxPoint x="1729" y="3573" />
               <mxPoint x="1729" y="3596" />
             </Array>
@@ -1218,7 +1218,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="hoLoJglFO14Wv2eabVut-162" value="usa" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;fontSize=12;curved=1;exitX=0.357;exitY=0;exitDx=0;exitDy=0;entryX=0.557;entryY=1.015;entryDx=0;entryDy=0;entryPerimeter=0;exitPerimeter=0;" edge="1" parent="1">
-          <mxGeometry x="0.4074" width="160" relative="1" as="geometry">
+          <mxGeometry x="-0.177" width="160" relative="1" as="geometry">
             <mxPoint x="1368.2439999999997" y="3596" as="sourcePoint" />
             <mxPoint x="1368.357" y="3486.6449999999995" as="targetPoint" />
             <mxPoint as="offset" />
